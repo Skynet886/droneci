@@ -12,5 +12,5 @@ pipeline:
     image: golang:latest
     commands:
       - go build
-# test it for us 1
+# test it for us 12
 
